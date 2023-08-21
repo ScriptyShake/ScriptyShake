@@ -12,3 +12,5 @@ Some of my favorite games that have been a great source of inspiration to me are
 - ⚡ This is my [Portfolio](https://valentinamalavasi.myportfolio.com/) & you can play my games on [itch.io](https://scriptyshake.itch.io/).
 - 💬 I like worldbuilding and creating characters and stories. I also like to write and do art in my free time!
 - 😄 Fun fact: I love TTRPGs and play D&D!
+
+(I mostly use Perforce so my GitHub activity might be a little inconsistent)
