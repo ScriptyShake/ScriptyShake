@@ -1,9 +1,4 @@
 ### Hi there 👋 
-### I'm Valentina Malavasi, a 2nd Year Game Programming Student at Breda University of Applied Sciences!
-
-I am currently interested in learning about gameplay & AI, as well as graphics, tech art and proceduralism!   
-
-Some of my favorite games that have been a great source of inspiration to me are: Katana ZERO, Undertale, Celeste, Ori, Subnautica, Genshin Impact, Hi-Fi Rush, & Skyrim.  
 
 - 🐧 I worked on the game [Snopuck](https://scriptyshake.itch.io/snopuck-team-butterfly-2223-y1d) & made sprites for the mod [Katana FIFTEEN](https://www.youtube.com/watch?v=3VHlKWVgQAk).
 - 🌱 I’m currently working on [TelekineSIX](https://github.com/ScriptyShake/TelekineSIX) & a Katana ZERO fan-game.
