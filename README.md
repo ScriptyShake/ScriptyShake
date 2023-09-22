@@ -5,5 +5,7 @@
 - 🤖 I primarily code in C++, C# & Python. I use Unreal Engine 5 & Unity.
 - 🔭 I am on [Twitter](https://twitter.com/scriptyshake) & [Instagram](https://www.instagram.com/scriptyshake/) & [YouTube](https://www.youtube.com/channel/UCFCmJbqXMYAt6lFoi3Zr1Gw).
 - ⚡ This is my [Portfolio](https://valentinamalavasi.myportfolio.com/) & you can play my games on [itch.io](https://scriptyshake.itch.io/).
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ScriptyShake)](https://git.io/streak-stats)
+---
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ScriptyShake&theme=neon-palenight"/></a>
+</p>
