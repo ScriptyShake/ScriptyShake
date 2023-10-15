@@ -4,7 +4,7 @@
 - 🌱 I’m currently working on [TelekineSIX](https://github.com/ScriptyShake/TelekineSIX) & a Katana ZERO fan-game.
 - 🤖 I primarily code in C++, C# & Python. I use Unreal Engine 5 & Unity.
 - 🔭 I am on [Twitter](https://twitter.com/scriptyshake) & [Instagram](https://www.instagram.com/scriptyshake/) & [YouTube](https://www.youtube.com/channel/UCFCmJbqXMYAt6lFoi3Zr1Gw).
-- ⚡ This is my [Portfolio](https://valentinamalavasi.myportfolio.com/) & you can play my games on [itch.io](https://scriptyshake.itch.io/).
+- ⚡ You can play my games on [itch.io](https://scriptyshake.itch.io/) & this is my [Art Portfolio](https://www.therookies.co/u/scriptyshake).
 ---
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ScriptyShake&theme=tokyonight-duo&exclude_days=Sun%2CSat"/></a>
