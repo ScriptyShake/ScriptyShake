@@ -7,5 +7,5 @@
 - ⚡ This is my [Portfolio](https://valentinamalavasi.myportfolio.com/) & you can play my games on [itch.io](https://scriptyshake.itch.io/).
 ---
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ScriptyShake&theme=neon-palenight"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ScriptyShake&theme=tokyonight-duo&exclude_days=Sun%2CSat"/></a>
 </p>
